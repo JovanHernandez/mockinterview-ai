@@ -1,0 +1,22 @@
+# Web Framework
+fastapi==0.109.2
+uvicorn[standard]==0.27.1
+python-multipart>=0.0.7  # Required for handling form data and file uploads
+
+# Whisper and dependencies
+git+https://github.com/openai/whisper.git
+ffmpeg-python==0.2.0
+torch==2.2.0  # Whisper requires PyTorch
+
+# Audio analysis
+pyAudioAnalysis==0.3.14
+numpy==1.26.3
+scipy==1.12.0
+eyed3==0.9.7  # Required by pyAudioAnalysis
+matplotlib==3.7.2  # Required by pyAudioAnalysis
+
+# OpenAI API for GPT scoring
+openai==1.78.1
+
+# (Optional) Audio file handling
+pydub==0.25.1  # Useful for converting audio formats if needed

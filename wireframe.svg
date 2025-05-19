@@ -1,0 +1,90 @@
+<svg width="1800" height="3200" viewBox="0 0 1800 3200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Landing Page -->
+  <g>
+    <rect x="100" y="100" width="700" height="600" rx="32" fill="#F9FAFB" stroke="#D1D5DB" stroke-width="2"/>
+    <text x="450" y="180" text-anchor="middle" font-size="36" font-family="Arial" font-weight="bold" fill="#111827">MockInterview.AI</text>
+    <text x="450" y="230" text-anchor="middle" font-size="20" font-family="Arial" fill="#374151">Real Interview Simulator</text>
+    <rect x="275" y="270" width="350" height="60" rx="12" fill="#E5E7EB" stroke="#9CA3AF" stroke-width="1"/>
+    <text x="450" y="310" text-anchor="middle" font-size="22" font-family="Arial" fill="#111827">Start Mock Interview</text>
+    <text x="450" y="370" text-anchor="middle" font-size="18" font-family="Arial" fill="#6B7280">How it Works:</text>
+    <circle cx="300" cy="420" r="30" fill="#E5E7EB" stroke="#9CA3AF" stroke-width="1"/>
+    <text x="300" y="427" text-anchor="middle" font-size="22" font-family="Arial" fill="#111827">1</text>
+    <text x="300" y="465" text-anchor="middle" font-size="16" font-family="Arial" fill="#6B7280">Setup</text>
+    <circle cx="450" cy="420" r="30" fill="#E5E7EB" stroke="#9CA3AF" stroke-width="1"/>
+    <text x="450" y="427" text-anchor="middle" font-size="22" font-family="Arial" fill="#111827">2</text>
+    <text x="450" y="465" text-anchor="middle" font-size="16" font-family="Arial" fill="#6B7280">Interview</text>
+    <circle cx="600" cy="420" r="30" fill="#E5E7EB" stroke="#9CA3AF" stroke-width="1"/>
+    <text x="600" y="427" text-anchor="middle" font-size="22" font-family="Arial" fill="#111827">3</text>
+    <text x="600" y="465" text-anchor="middle" font-size="16" font-family="Arial" fill="#6B7280">Review</text>
+  </g>
+  <!-- Interview Setup -->
+  <g>
+    <rect x="1000" y="100" width="700" height="700" rx="32" fill="#F9FAFB" stroke="#D1D5DB" stroke-width="2"/>
+    <text x="1350" y="180" text-anchor="middle" font-size="32" font-family="Arial" font-weight="bold" fill="#111827">Interview Setup</text>
+    <text x="1100" y="230" font-size="18" font-family="Arial" fill="#374151">Job Title:</text>
+    <rect x="1200" y="210" width="400" height="36" rx="8" fill="#E5E7EB" stroke="#9CA3AF" stroke-width="1"/>
+    <text x="1100" y="280" font-size="18" font-family="Arial" fill="#374151">Company Name/URL:</text>
+    <rect x="1270" y="260" width="330" height="36" rx="8" fill="#E5E7EB" stroke="#9CA3AF" stroke-width="1"/>
+    <text x="1100" y="330" font-size="18" font-family="Arial" fill="#374151">Resume/Background:</text>
+    <rect x="1270" y="310" width="330" height="60" rx="8" fill="#E5E7EB" stroke="#9CA3AF" stroke-width="1"/>
+    <text x="1100" y="410" font-size="18" font-family="Arial" fill="#374151">Interview Type:</text>
+    <rect x="1270" y="390" width="20" height="20" rx="10" fill="#E5E7EB" stroke="#9CA3AF" stroke-width="1"/>
+    <text x="1300" y="405" font-size="16" font-family="Arial" fill="#374151">Technical</text>
+    <rect x="1400" y="390" width="20" height="20" rx="10" fill="#E5E7EB" stroke="#9CA3AF" stroke-width="1"/>
+    <text x="1430" y="405" font-size="16" font-family="Arial" fill="#374151">Behavioral</text>
+    <rect x="1550" y="390" width="20" height="20" rx="10" fill="#E5E7EB" stroke="#9CA3AF" stroke-width="1"/>
+    <text x="1580" y="405" font-size="16" font-family="Arial" fill="#374151">Mixed</text>
+    <text x="1100" y="450" font-size="18" font-family="Arial" fill="#374151">Mode:</text>
+    <rect x="1170" y="430" width="20" height="20" rx="10" fill="#E5E7EB" stroke="#9CA3AF" stroke-width="1"/>
+    <text x="1200" y="445" font-size="16" font-family="Arial" fill="#374151"># Qs</text>
+    <rect x="1250" y="430" width="50" height="20" rx="6" fill="#E5E7EB" stroke="#9CA3AF" stroke-width="1"/>
+    <rect x="1320" y="430" width="20" height="20" rx="10" fill="#E5E7EB" stroke="#9CA3AF" stroke-width="1"/>
+    <text x="1350" y="445" font-size="16" font-family="Arial" fill="#374151">Time</text>
+    <rect x="1390" y="430" width="50" height="20" rx="6" fill="#E5E7EB" stroke="#9CA3AF" stroke-width="1"/>
+    <text x="1450" y="445" font-size="16" font-family="Arial" fill="#374151">min</text>
+    <rect x="1200" y="500" width="350" height="60" rx="12" fill="#E5E7EB" stroke="#9CA3AF" stroke-width="1"/>
+    <text x="1375" y="540" text-anchor="middle" font-size="22" font-family="Arial" fill="#111827">Start Interview</text>
+  </g>
+  <!-- Interview Simulation -->
+  <g>
+    <rect x="100" y="900" width="700" height="800" rx="32" fill="#F9FAFB" stroke="#D1D5DB" stroke-width="2"/>
+    <text x="450" y="980" text-anchor="middle" font-size="28" font-family="Arial" font-weight="bold" fill="#111827">Q2/5: "Tell me about a time..."</text>
+    <rect x="250" y="1020" width="400" height="60" rx="12" fill="#E5E7EB" stroke="#9CA3AF" stroke-width="1"/>
+    <circle cx="270" cy="1050" r="12" fill="#F87171"/>
+    <text x="300" y="1058" font-size="18" font-family="Arial" fill="#374151">Recording... 00:32</text>
+    <rect x="350" y="1100" width="100" height="36" rx="8" fill="#E5E7EB" stroke="#9CA3AF" stroke-width="1"/>
+    <text x="400" y="1125" text-anchor="middle" font-size="18" font-family="Arial" fill="#111827">Stop</text>
+    <text x="250" y="1180" font-size="16" font-family="Arial" fill="#6B7280">Transcript:</text>
+    <rect x="250" y="1200" width="400" height="60" rx="8" fill="#E5E7EB" stroke="#9CA3AF" stroke-width="1"/>
+    <text x="450" y="1240" text-anchor="middle" font-size="16" font-family="Arial" fill="#374151">"So, in my last..."</text>
+    <rect x="325" y="1300" width="250" height="50" rx="12" fill="#E5E7EB" stroke="#9CA3AF" stroke-width="1"/>
+    <text x="450" y="1332" text-anchor="middle" font-size="20" font-family="Arial" fill="#111827">Submit Answer</text>
+    <!-- Per-question Feedback -->
+    <rect x="200" y="1400" width="500" height="220" rx="18" fill="#F3F4F6" stroke="#D1D5DB" stroke-width="1"/>
+    <text x="450" y="1430" text-anchor="middle" font-size="22" font-family="Arial" font-weight="bold" fill="#111827">Rating: 7/10</text>
+    <text x="250" y="1470" font-size="16" font-family="Arial" fill="#374151">Explanation:</text>
+    <text x="250" y="1495" font-size="15" font-family="Arial" fill="#6B7280">Your answer covered the main points, but could be more concise.</text>
+    <text x="250" y="1530" font-size="16" font-family="Arial" fill="#374151">Suggestions:</text>
+    <text x="250" y="1555" font-size="15" font-family="Arial" fill="#6B7280">Try to structure your answer using the STAR method and avoid unnecessary details.</text>
+    <rect x="375" y="1580" width="150" height="36" rx="8" fill="#E5E7EB" stroke="#9CA3AF" stroke-width="1"/>
+    <text x="450" y="1605" text-anchor="middle" font-size="18" font-family="Arial" fill="#111827">Next Question</text>
+  </g>
+  <!-- Interview Summary -->
+  <g>
+    <rect x="1000" y="900" width="700" height="700" rx="32" fill="#F9FAFB" stroke="#D1D5DB" stroke-width="2"/>
+    <text x="1350" y="980" text-anchor="middle" font-size="28" font-family="Arial" font-weight="bold" fill="#111827">Interview Summary</text>
+    <text x="1100" y="1040" font-size="20" font-family="Arial" fill="#374151">Average Score:</text>
+    <rect x="1250" y="1020" width="200" height="40" rx="10" fill="#E5E7EB" stroke="#9CA3AF" stroke-width="1"/>
+    <text x="1350" y="1050" text-anchor="middle" font-size="22" font-family="Arial" fill="#111827">7.4/10</text>
+    <text x="1100" y="1120" font-size="18" font-family="Arial" fill="#374151">Overall Strengths:</text>
+    <text x="1120" y="1150" font-size="16" font-family="Arial" fill="#10B981">• Clear examples</text>
+    <text x="1120" y="1175" font-size="16" font-family="Arial" fill="#10B981">• Confident delivery</text>
+    <text x="1100" y="1220" font-size="18" font-family="Arial" fill="#374151">Improvement Plan:</text>
+    <text x="1120" y="1250" font-size="16" font-family="Arial" fill="#F59E42">• Be more concise</text>
+    <text x="1120" y="1275" font-size="16" font-family="Arial" fill="#F59E42">• Use STAR structure</text>
+    <rect x="1200" y="1350" width="120" height="40" rx="12" fill="#E5E7EB" stroke="#9CA3AF" stroke-width="1"/>
+    <text x="1260" y="1378" text-anchor="middle" font-size="18" font-family="Arial" fill="#111827">Retake</text>
+    <rect x="1350" y="1350" width="180" height="40" rx="12" fill="#E5E7EB" stroke="#9CA3AF" stroke-width="1"/>
+    <text x="1440" y="1378" text-anchor="middle" font-size="18" font-family="Arial" fill="#111827">Download Report</text>
+  </g>
+</svg>
